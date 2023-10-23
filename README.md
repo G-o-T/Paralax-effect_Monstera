@@ -1,5 +1,8 @@
 # Paralax-effect_Monstera
 
+![image](https://github.com/G-o-T/Paralax-effect_Monstera/assets/95774476/7af97190-1a43-4481-b4ad-40257a5612b5)
+
+
 I'm interested in creation of modern and useful interfaces, so I try to learn how to do them more attractive for users. One of the option - to use parallax effect.
 
 ## Technologies:
